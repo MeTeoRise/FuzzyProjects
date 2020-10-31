@@ -1,0 +1,1 @@
+dcmotor = readfis('dcmotor');
